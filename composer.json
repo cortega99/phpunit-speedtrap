@@ -1,5 +1,5 @@
 {
-    "name": "johnkary/phpunit-speedtrap",
+    "name": "cortega99/phpunit-speedtrap",
     "type": "library",
     "description": "Find and report on slow tests in your PHPUnit test suite",
     "keywords": [
@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": ">=7.2",
-        "phpunit/phpunit": "^8.0 || ^9.0"
+        "phpunit/phpunit": "^8.0 || ^9.0 || ^10.0"
     },
     "extra": {
         "branch-alias": {
